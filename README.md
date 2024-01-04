@@ -1,6 +1,6 @@
 ### Hello everyone (´｡• ᵕ •｡`)
 
-[![MasterHead](file:///Users/ajmao/Downloads/banner.png)](https://github.com/allenjhane)
+![Header](./[banner.png])
 
 <!--
 **allenjhane/allenjhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
