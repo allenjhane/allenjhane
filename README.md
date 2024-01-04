@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone (´｡• ᵕ •｡`)
 
 <!--
 **allenjhane/allenjhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on the last year of my BS in CompSci and am so excited (but also scared) to start a life in the tech industry next year. In this last year, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+I have the most experience with using Python, Java, and C++ due to school. Though I know those the best, I've also been learning HTML5, CSS3, JavaScript, React, and C/C# for personal projects I've been working on. I'm currently working on numerous webapps and will upload them here soon to showcase my work to the world. However, I know I can always improve previous projects and would like feedback on how I can better them too ヽ(・∀・)ﾉ
