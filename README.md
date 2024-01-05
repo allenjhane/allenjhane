@@ -20,7 +20,7 @@ ___
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-I have the most experience with using Python, Java, and C++ due to school. Though I know those the best, I've also been learning other languages such as HTML5, CSS3, JavaScript, React, and C/C# for personal projects I've been working on. I'm currently working on numerous webapps and will upload them here to showcase my work to the world. However, I know I can always improve and would like feedback on how I can better them!
+I have the most experience with using Python, Java, and C++ due to school. Though I know those languages the best, I've also been learning other languages such as HTML5, CSS3, JavaScript, React, and C/C# for personal projects I've been working on. I'm currently working on numerous webapps and will upload them here to showcase my work to the world. However, I know I can always improve, and would like feedback on how I can better them!
 ___
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Also+(%C2%B4%EF%BD%A1%E2%80%A2+%E1%B5%95+%E2%80%A2%EF%BD%A1%60)+%E2%99%A1)](https://git.io/typing-svg)
