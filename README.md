@@ -20,7 +20,7 @@ I'm Jhane and I currently live in Germany due to my current job. I'm working on 
 <div align="center">
 <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="48%" align="right"/>
  <pre>
-<h3><i>❀ Some things I like to do are ❀</i></h3>
+<h3><i>❀ Some things I like to do ❀</i></h3>
 watch anime ✧ do puzzles ✧ play board games
 guiltily play and pay for gacha games
 ... and <em>surprisingly</em> hike (because of my cute doggos)
