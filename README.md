@@ -18,18 +18,20 @@ intro section
 I'm Jhane and I currently live in Germany due to my current job. I'm working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer and in this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
 
 <div align="center">
-<img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="50%" align="right"/>
- <pre>
+   <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="50%" align="right"/>
+<pre>
 <b><i>Some things I like to do</i></b>
 ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
 <i>
    watch anime ✧ do puzzles ✧ play board games
-guiltily play and pay for gacha games
-... and hike with my cute doggos!
+   guiltily play and pay for gacha games
+   ... and hike with my cute doggos!
 </i>
 <b><i>(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆</i></b>
- </pre>
- <img src="https://media.giphy.com/media/4vZu4IUDrNwVx0G4sM/giphy.gif" width="8%" align="center"/>
+</pre>
+   <img src="https://media.giphy.com/media/ATjW26r5S6EEnbeHyC/giphy.gif" width="6%" align="center"/>
+   <img src="https://media.giphy.com/media/4vZu4IUDrNwVx0G4sM/giphy.gif" width="6%" align="center"/>
+   <img src="https://media.giphy.com/media/2DsBnF1sYl444gpEmw/giphy.gif" width="7%" align="center"/>  
 </div>
  
 ___
