@@ -18,7 +18,7 @@ intro section
 I'm Jhane and I currently live in Germany due to my current job. I'm working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer and in this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
 
 <div align="center">
-<img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="55%" align="right"/>
+<img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="50%" align="right"/>
  <pre>
 <b><i>Some things I like to do</i></b>
 ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
