@@ -7,14 +7,14 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=About+me+(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7)](https://git.io/typing-svg)
 
-I'm currently working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. In this last year, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
+I'm Jhane and I'm currently working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer. In this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
 
 Some things I like to do are:
-- watching anime
-- doing puzzles
-- playing board games
-- guiltily playing and paying for gacha games 	｡ﾟ･ (>﹏<) ･ﾟ｡
-- and (surprisingly) hiking (probably because of my cute doggos)
+- watch anime
+- do puzzles
+- play board games
+- guiltily play and pay for gacha games 	｡ﾟ･ (>﹏<) ･ﾟ｡
+- and (surprisingly) hike (probably because of my cute doggos)
 ___
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Coding+Endeavors%E3%83%BE(%E3%83%BB%CF%89%E3%83%BB*))](https://git.io/typing-svg)
 
