@@ -1,28 +1,37 @@
+<!---
+hi image section
+-->
 <div id="header" align="center">
- 
-  [<img src="https://media.giphy.com/media/qU7ZMXcN4rN4g8rEc1/giphy.gif"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+   [<img src="https://media.giphy.com/media/qU7ZMXcN4rN4g8rEc1/giphy.gif"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+   
+   ![](https://komarev.com/ghpvc/?username=your-github-username&color=F8C8DC&style=for-the-badge&label=VISITORS+💗)
   
 </div>
 
-<div align = "center">
- 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=F8C8DC&style=for-the-badge&label=VISITORS+💗)
-
-</div>
-
-
 ---
+<!---
+intro section
+-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=About+me+(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7)](https://git.io/typing-svg)
 
-I'm Jhane and I currently live in Germany due to my current job. I'm currently working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer. In this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
+I'm Jhane and I currently live in Germany due to my current job. I'm working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer and in this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
 
-Some things I like to do are:
-- watch anime
-- do puzzles
-- play board games
-- guiltily play and pay for gacha games 	｡ﾟ･ (>﹏<) ･ﾟ｡
-- and (surprisingly) hike (probably because of my cute doggos)
+<div align="center">
+<img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="48%" align="right"/>
+ <pre>
+<h3><i>❀ Some things I like to do are ❀</i></h3>
+watch anime ✧ do puzzles ✧ play board games
+guiltily play and pay for gacha games
+... and <em>surprisingly</em> hike (because of my cute doggos)
+<h3>(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆</h3>
+ </pre>
+</div>
+ 
 ___
+<!---
+coding experience section
+-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Coding+Endeavors%E3%83%BE(%E3%83%BB%CF%89%E3%83%BB*))](https://git.io/typing-svg)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/allenjhane?tab=repositories&q=&type=&language=python&sort=)
@@ -37,7 +46,9 @@ ___
 
 I have the most experience with using Python, Java, and C++ due to school. Though I know those languages the best, I've also been learning other languages such as HTML5, CSS3, JavaScript, React, and C/C# for personal projects I've been working on. I'm currently working on numerous webapps and will upload them here to showcase my work to the world. However, I know I can always improve, and would like feedback on how I can better them!
 ___
-
+<!---
+additional info section
+-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Also+(%C2%B4%EF%BD%A1%E2%80%A2+%E1%B5%95+%E2%80%A2%EF%BD%A1%60)+%E2%99%A1)](https://git.io/typing-svg)
 
 I would love to collaborate to learn more and to help make a great product. I am open to collaborating on any projects you have!
