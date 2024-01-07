@@ -3,7 +3,7 @@ hi image section
 -->
 <div id="header" align="center">
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Hellooo!+I'm+Jhane+(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Hellooo!+I'm+Jhane+%D9%A9(%E2%97%95%E2%80%BF%E2%97%95%EF%BD%A1)%DB%B6)](https://git.io/typing-svg)
 
    [<img src="https://media.giphy.com/media/jD4bWRZTAHewMpnaXW/giphy.gif" width="40%"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
    
