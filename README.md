@@ -15,7 +15,7 @@ intro section
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=About+me+(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7)](https://git.io/typing-svg)
 
-I'm Jhane and I currently live in Germany due to my current job. I'm working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer and in this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
+I'm Jhane and I'm from California, but I currently live in Germany due to my current job. I'm working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer and in this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
 
 <div align="center">
    <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="50%" align="right"/>
@@ -57,7 +57,7 @@ additional info section
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Also+(%C2%B4%EF%BD%A1%E2%80%A2+%E1%B5%95+%E2%80%A2%EF%BD%A1%60)+%E2%99%A1)](https://git.io/typing-svg)
 
-I would love to collaborate to learn more and to help make a great product. I am open to collaborating on any projects you have!
+I would love to collaborate to learn more and to help make a great product. I am open to collaborating on any projects you have! I am fluent in English and Tagalog btw!
 
 Please let me know if you ever want to collaborate and/or wish to give me any advice on my code or anything else you think would benefit me! ʕ •ᴥ• ʔ
 
