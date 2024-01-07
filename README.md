@@ -5,7 +5,7 @@ hi image section
 
    [<img src="https://media.giphy.com/media/qU7ZMXcN4rN4g8rEc1/giphy.gif"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
    
-   ![](https://komarev.com/ghpvc/?username=your-github-username&color=F8C8DC&style=for-the-badge&label=VIEWS+💗&abbreviated=true)
+   ![](https://komarev.com/ghpvc/?username=allenjhane&abbreviated=true&color=F8C8DC&style=for-the-badge&label=VISITORS+💗)
   
 </div>
 
