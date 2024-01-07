@@ -3,7 +3,7 @@ hi image section
 -->
 <div id="header" align="center">
 
-   [<img src="https://media.giphy.com/media/qU7ZMXcN4rN4g8rEc1/giphy.gif"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+   [<img src="https://media.giphy.com/media/jD4bWRZTAHewMpnaXW/giphy.gif" width="40%"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
    
    ![](https://komarev.com/ghpvc/?username=allenjhane&abbreviated=true&color=F8C8DC&style=for-the-badge&label=VISITORS+💗)
   
@@ -13,9 +13,9 @@ hi image section
 <!---
 intro section
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=About+me+(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Hellooo!+I'm+Jhane+(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7)](https://git.io/typing-svg)
 
-I'm Jhane and I'm from California, but I currently live in Germany due to my current job. I'm working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer and in this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
+I'm from California, but I currently live in Germany due to my current job. I'm working on the last year of my BS in Computer Science and am so excited (but also scared) to start a life in the tech industry next year. I'm working towards becoming a full-stack developer and in this last year of uni, I'm trying to learn as much as I can to be ready for Industry and I'm having a lot of fun doing so!
 
 <div align="center">
    <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-89.gif" width="50%" align="right"/>
