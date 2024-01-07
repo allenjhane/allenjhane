@@ -38,7 +38,7 @@ ___
 <!---
 coding experience section
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Coding+Endeavors%E3%83%BE(%E3%83%BB%CF%89%E3%83%BB*))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=28&pause=1000&color=F8C8DC&random=false&width=435&lines=Tech+Stack%E3%83%BE(%E3%83%BB%CF%89%E3%83%BB*))](https://git.io/typing-svg)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/allenjhane?tab=repositories&q=&type=&language=python&sort=)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/allenjhane?tab=repositories&q=&type=&language=java&sort=) 
