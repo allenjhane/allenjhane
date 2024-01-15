@@ -21,9 +21,9 @@ intro section
 <b><i>Some things I like to do</i></b>
 ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚
 <i>
-   watch anime ✧ do puzzles ✧ play board games
-   guiltily play and pay for gacha games
-   ... and hike with my cute doggos!
+watch anime ✧ do puzzles ✧ play board games
+guiltily play and pay for gacha games
+... and hike with my cute doggos!
 </i>
 <b><i>(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆</i></b>
 </pre>
