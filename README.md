@@ -51,6 +51,8 @@ coding experience section
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 I have the most experience with using Python, Java, and C++ due to school. Though I know those languages the best, I've also been learning other languages such as HTML5, CSS3, JavaScript, React, and C/C# for personal projects I've been working on. I'm currently working on numerous webapps and will upload them here to showcase my work to the world. However, I know I can always improve, and would like feedback on how I can better them!
+
+Also, please click on each language in the tech stack above to see the projects under each one!
 ___
 <!---
 additional info section
